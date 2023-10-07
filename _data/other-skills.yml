@@ -1,9 +1,9 @@
 - name: Flute
   percentage: 95
   level: Expert
-  color: info
-
+  color: success  
+  
 - name: Skateboard
   percentage: 20
   level: Beginner
-  color: success
+  color: warning 
