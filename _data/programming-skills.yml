@@ -1,24 +1,24 @@
 - name: R
   percentage: 70
   level: Advanced
-  color: danger
+  color: success
 
 - name: Python
   percentage: 55
   level: Intermediate
-  color: secondary
-  
+  color: info
+
 - name: SQL
   percentage: 50
   level: Intermediate
-  color:
+  color: info
 
 - name: Tableau
   percentage: 50
   level: Intermediate
-  color:
+  color: info
 
 - name: SAS
   percentage: 40
   level: Elementary
-  color:
+  color: warning
